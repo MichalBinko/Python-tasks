@@ -1,1 +1,1 @@
-### Tasks for evry problems you can find in Python_tasks.pdf
+### Tasks for every problems you can find in Python_tasks.pdf
